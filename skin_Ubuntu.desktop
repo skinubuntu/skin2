@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=피부진단 프로그램
+Comment=Skin Diagnosis Program
+Exec=/home/사용자이름/skin_web_fin/run_app.sh
+Icon=/home/사용자이름/skin_web_fin/icon.png
+Terminal=false
+Categories=Utility;
